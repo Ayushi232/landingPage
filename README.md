@@ -1,1 +1,2 @@
 # landingPage
+Generic Landing Page
